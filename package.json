@@ -1,6 +1,6 @@
 {
   "name": "smart-grid-sass-use",
-  "version": "2.1.2",
+  "version": "1.0.0",
   "description": "Smart CSS Grid with different preprocessors: SCSS, SASS",
   "main": "index.js",
   "dependencies": {},
