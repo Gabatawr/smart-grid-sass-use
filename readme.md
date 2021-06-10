@@ -1,3 +1,6 @@
+
+#### [Author of the original repository: Dmitrii Lavrik](https://github.com/dmitry-lavrik/smart-grid)
+
 > Create adaptive CSS? It's fast and easy! With smart-grid!
 
 ## Install
