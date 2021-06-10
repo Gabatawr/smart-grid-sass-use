@@ -1,0 +1,23 @@
+{
+  "name": "smart-grid-sass-use",
+  "version": "2.1.2",
+  "description": "Smart CSS Grid with different preprocessors: SCSS, SASS",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "css",
+    "scss",
+    "sass"
+  ],
+  "author": "Artem Kashyrin",
+  "license": "MIT",
+  "homepage": "https://github.com/Gabatawr/smart-grid-sass-use",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabatawr/smart-grid-sass-use.git"
+  }
+}
