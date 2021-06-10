@@ -6,16 +6,16 @@
 ## Install
 
 ```
-$ npm i smart-grid --save-dev
+$ npm i smart-grid-sass-use --save-dev
 ```
 
 * Create a file with the following config. Tweak it where needed.
 
 ```js
-var smartgrid = require('smart-grid');
+import smartGrid from 'smart-grid-sass-use';
 
 /* It's principal settings in smart grid project */
-var settings = {
+let settings = {
     outputStyle: 'scss', /* scss || sass */
     columns: 12, /* number of grid columns */
     offset: '30px', /* gutter width px || % || rem */

@@ -4,3 +4,4 @@
 /tmp/*
 /old/*
 /todo.txt
+package-lock.json
